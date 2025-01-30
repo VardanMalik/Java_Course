@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class SumOfDigit {
     public static void main(String[] args) {
         System.out.print("Enter the number whose sum of digit you want: ");
         Scanner input = new Scanner(System.in);
